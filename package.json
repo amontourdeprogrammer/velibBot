@@ -1,0 +1,21 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "description": "Le bot ",
+  "main": "bot.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  }
+}
