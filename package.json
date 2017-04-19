@@ -1,21 +1,25 @@
 {
-  "name": "my_package",
+  "name": "velibBot",
   "version": "1.0.0",
   "description": "Le bot ",
-  "main": "bot.js",
+  "main": "index.js",
   "dependencies": {
+    "dotenv": "^4.0.0",
+    "jsonfile": "^2.4.0",
+    "request": "^2.80.0",
+    "twilio": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/amontourdeprogrammer/velibBot"
   },
-  "author": "",
+  "author": "Cécile Briard",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/amontourdeprogrammer/velibBot/issues"
   }
 }
